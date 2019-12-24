@@ -1,0 +1,3 @@
+layer 3 R U2 R' U' R U2 L' U R' U' L
+
+FINAL R U' R U R U R U' R' U' R2
